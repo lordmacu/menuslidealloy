@@ -4,34 +4,30 @@
 			<View id="shadowmenu"></View>
 			<View class="contenedormenu" width="Ti.UI.FULL" height="Ti.UI.FULL"  layout="vertical" backgroundColor="white">
 				<View width="Ti.UI.FULL"  top="30dp"  height="Ti.UI.SIZE" backgroundColor="white">
-					<ImageView width="70%" image="/menu/logomenu.jpg" ></ImageView>
+					<Label>Menu</Label>a
 				</View>
 				<TableView id="tablemenu" top="25dp" height="85%"   backgroundImage="/menu/backgraymenu.png">
 					<TableViewSection>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<ImageView top="10dp" width="30%" image="/menu/ico.png"></ImageView>
 								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<ImageView top="10dp" width="30%" image="/menu/ico.png"></ImageView>
 								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<ImageView top="10dp" width="30%" image="/menu/ico.png"></ImageView>
 								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<ImageView top="10dp" width="30%" image="/menu/ico.png"></ImageView>
 								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
 								<View class="separador"></View>
 							</View>
