@@ -1,8 +1,0 @@
-
-"#homecontenedor" : {
-  backgroundImage:"/home/fondohome.jpg"
-  }
-  
-"#textoingresar":{
-	 color:"white", textAlign:"center",top:"20dp"
-}

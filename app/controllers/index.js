@@ -3,6 +3,6 @@ function doClick(e) {
 }
 
 //$.index.open();
-Alloy.createController('combinaciones').getView().open({
+Alloy.createController('menu').getView().open({
 			animate : true
 });
