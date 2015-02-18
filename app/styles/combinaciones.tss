@@ -1,0 +1,33 @@
+
+".claserow" : {
+  backgroundImage:"/menu/backgraymenu.png",
+  selectedBackgroundColor:"transparent",
+  
+}
+
+".menuitemlabel":{
+	color:"#a1a1a1"
+}
+
+"#tablemenu":{
+	separatorStyle: 'none',
+	separatorColor:"transparent"
+}
+
+".separador":{
+	 height:"1px", backgroundImage:"/menu/shadowdarkgray.png", width:"100%"
+}
+
+".contenedormenu":{
+	
+}
+"#shadowmenu":{
+	 zIndex:"1000", right:"0", width:"30dp", backgroundImage:"/menu/shadowback.png", height:"100%" 
+}
+
+"#contentwindow":{
+	backgroundColor:"green",
+	width:Ti.UI.FULL,
+	height:Ti.UI.FULL,
+	zIndex:200000
+}
