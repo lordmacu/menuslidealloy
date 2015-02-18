@@ -10,25 +10,25 @@
 					<TableViewSection>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
+								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Menu item</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
+								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Menu item</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
+								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Menu item</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
 						<TableViewRow class="claserow" height="Ti.UI.SIZE" layout="vertical" >
 							<View width="Ti.UI.FULL" height="Ti.UI.SIZE" layout="vertical">
-								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Titulo</Label>
+								<Label bottom="10dp" height="Ti.UI.SIZE" class="menuitemlabel">Menu item</Label>
 								<View class="separador"></View>
 							</View>
 						</TableViewRow>
@@ -37,7 +37,7 @@
 			</View>
 		</View>
 		<View id="contentwindow">
-			<Button onClick="openmenu">abrir menu</Button>
+			<Button onClick="openmenu">open menu</Button>
 		</View>
 	</Window>
 </Alloy>
